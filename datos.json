@@ -1,0 +1,190 @@
+{
+  "teams": [
+    {
+      "name": "Atlético Nacional",
+      "points": 10,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Independiente Medellín",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Millonarios",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Independiente Santa Fe",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "América de Cali",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Deportivo Cali",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Junior",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Once Caldas",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Deportes Tolima",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Atlético Bucaramanga",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Deportivo Pereira",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Deportivo Pasto",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Águilas Doradas",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Alianza FC",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Fortaleza CEIF",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Llaneros FC",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Jaguares de Córdoba",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Boyacá Chicó",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Cúcuta Deportivo",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    },
+    {
+      "name": "Internacional de Bogotá",
+      "points": 0,
+      "gift": "Rosa",
+      "value": 10,
+      "logo": "",
+      "active": true
+    }
+  ],
+  "settings": {
+    "seconds": 180,
+    "mode": "elimination",
+    "api_key": "",
+    "league_id": "",
+    "season": 2026,
+    "refresh": 15,
+    "live_user": ""
+  },
+  "league": [],
+  "league_updated": "",
+  "league_error": "Sin sincronizar",
+  "event": {
+    "type": "goal",
+    "text": "⚽ ¡GOOOL! Atlético Nacional +10",
+    "ts": 1792307167.3114161
+  },
+  "running": false,
+  "deadline": 0,
+  "history": [
+    {
+      "type": "goal",
+      "text": "⚽ ¡GOOOL! Atlético Nacional +10",
+      "ts": 1792307167.3114161
+    }
+  ]
+}
